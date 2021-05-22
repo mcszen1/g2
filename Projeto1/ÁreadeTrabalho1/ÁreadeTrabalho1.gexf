@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-05-22">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Grau" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Damião" label="Damião">
+        <attvalues>
+          <attvalue for="degree" value="18"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.95"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9736842105263158"></attvalue>
+          <attvalue for="betweenesscentrality" value="81.38333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="165.8889" y="-275.00092"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Padre Policarpo" label="Padre Policarpo">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7037037037037037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7894736842105263"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.149999999999999"></attvalue>
+        </attvalues>
+        <viz:size value="18.4375"></viz:size>
+        <viz:position x="341.92432" y="-364.81995"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Genoveva Pia" label="Genoveva Pia">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5757575757575758"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.631578947368421"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.25"></attvalue>
+        </attvalues>
+        <viz:size value="12.8125"></viz:size>
+        <viz:position x="263.79065" y="-402.79474"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Dona Bembém" label="Dona Bembém">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.59375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6578947368421053"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.8333333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="141.44534" y="-523.79175"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Barão" label="Barão">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7105263157894737"></attvalue>
+          <attvalue for="betweenesscentrality" value="15.35"></attvalue>
+        </attvalues>
+        <viz:size value="15.625"></viz:size>
+        <viz:position x="6.588669" y="-385.60956"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+      <node id="Donana Jansen" label="Donana Jansen">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.59375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6578947368421053"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.8166666666666664"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="34.401825" y="-599.44214"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+      <node id="Dr. Lustosa" label="Dr. Lustosa">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.59375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6754385964912281"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.666666666666666"></attvalue>
+        </attvalues>
+        <viz:size value="14.6875"></viz:size>
+        <viz:position x="21.468811" y="-127.90239"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Deus" label="Deus">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6785714285714286"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7631578947368421"></attvalue>
+          <attvalue for="betweenesscentrality" value="10.733333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-44.70819" y="-278.84027"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Samuel" label="Samuel">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5277777777777778"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5526315789473685"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.816666666666667"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-106.739655" y="-376.02298"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+      <node id="Chico Laurentino" label="Chico Laurentino">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5277777777777778"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5701754385964912"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.3333333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="10.9375"></viz:size>
+        <viz:position x="-75.41277" y="-80.31338"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Nhá-Biló" label="Nhá-Biló">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5428571428571428"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5964912280701755"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="92.63696" y="-144.39333"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Senhor Bispo" label="Senhor Bispo">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7280701754385965"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.749999999999999"></attvalue>
+        </attvalues>
+        <viz:size value="16.5625"></viz:size>
+        <viz:position x="207.40227" y="-93.45498"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Sinhá Velha" label="Sinhá Velha">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5428571428571428"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5964912280701755"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="118.9075" y="-38.63745"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Dom Manuel" label="Dom Manuel">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5757575757575758"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6491228070175439"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.5"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="337.9584" y="-211.09207"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Vossa Reverendíssima" label="Vossa Reverendíssima">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5757575757575758"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6491228070175439"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.41666666666666663"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="321.03925" y="-149.93074"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="Chico Benedito" label="Chico Benedito">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5277777777777778"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5701754385964912"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.3333333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="10.9375"></viz:size>
+        <viz:position x="-113.56525" y="-158.18451"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="Susana" label="Susana">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5428571428571428"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5964912280701755"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="242.42151" y="-498.68106"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Cotinha" label="Cotinha">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5428571428571428"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5964912280701755"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="168.7722" y="-443.7358"></viz:position>
+        <viz:color r="238" g="121" b="147"></viz:color>
+      </node>
+      <node id="Dona Ana Rosa" label="Dona Ana Rosa">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5588235294117647"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6052631578947368"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.16666666666666666"></attvalue>
+        </attvalues>
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="-23.881668" y="-501.66098"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+      <node id="Julião" label="Julião">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.41304347826086957"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.46491228070175433"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.08252" y="-438.4292"></viz:position>
+        <viz:color r="63" g="177" b="125"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Damião" target="Padre Policarpo" weight="39.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="1" source="Damião" target="Genoveva Pia" weight="9.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="2" source="Damião" target="Dona Bembém" weight="6.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="3" source="Damião" target="Barão" weight="14.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="4" source="Damião" target="Donana Jansen" weight="4.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="5" source="Damião" target="Dr. Lustosa" weight="10.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="6" source="Damião" target="Deus" weight="17.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="7" source="Damião" target="Samuel" weight="3.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="8" source="Damião" target="Chico Laurentino" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="9" source="Damião" target="Nhá-Biló" weight="9.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="10" source="Damião" target="Senhor Bispo" weight="11.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="11" source="Damião" target="Sinhá Velha" weight="4.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="12" source="Damião" target="Dom Manuel" weight="11.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="13" source="Damião" target="Vossa Reverendíssima">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="14" source="Damião" target="Chico Benedito" weight="9.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="15" source="Damião" target="Susana" weight="5.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="16" source="Damião" target="Cotinha" weight="8.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="17" source="Damião" target="Dona Ana Rosa" weight="5.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="18" source="Padre Policarpo" target="Genoveva Pia" weight="3.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="19" source="Padre Policarpo" target="Dona Bembém">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="20" source="Padre Policarpo" target="Barão">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="21" source="Padre Policarpo" target="Donana Jansen">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="22" source="Padre Policarpo" target="Deus" weight="4.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="23" source="Padre Policarpo" target="Senhor Bispo" weight="4.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="24" source="Padre Policarpo" target="Dom Manuel" weight="7.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="25" source="Padre Policarpo" target="Vossa Reverendíssima">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="26" source="Padre Policarpo" target="Susana">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="27" source="Padre Policarpo" target="Cotinha" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="28" source="Genoveva Pia" target="Dona Bembém">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="29" source="Genoveva Pia" target="Barão">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="30" source="Genoveva Pia" target="Deus" weight="3.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="31" source="Dona Bembém" target="Barão">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="32" source="Dona Bembém" target="Susana" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="33" source="Dona Bembém" target="Cotinha" weight="7.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="34" source="Barão" target="Donana Jansen">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="35" source="Barão" target="Julião" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="36" source="Barão" target="Deus">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="37" source="Barão" target="Dona Ana Rosa">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="38" source="Donana Jansen" target="Senhor Bispo">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="39" source="Donana Jansen" target="Vossa Reverendíssima">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="40" source="Donana Jansen" target="Dona Ana Rosa">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="41" source="Dr. Lustosa" target="Deus" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="42" source="Dr. Lustosa" target="Chico Laurentino" weight="5.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="43" source="Dr. Lustosa" target="Nhá-Biló" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="44" source="Dr. Lustosa" target="Senhor Bispo" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="45" source="Dr. Lustosa" target="Sinhá Velha" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="46" source="Dr. Lustosa" target="Dom Manuel" weight="3.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="47" source="Deus" target="Senhor Bispo">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="48" source="Deus" target="Dom Manuel">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="49" source="Deus" target="Vossa Reverendíssima">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="50" source="Deus" target="Chico Benedito">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="51" source="Deus" target="Dona Ana Rosa">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="52" source="Samuel" target="Julião">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="53" source="Chico Laurentino" target="Chico Benedito">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="54" source="Nhá-Biló" target="Senhor Bispo" weight="3.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="55" source="Nhá-Biló" target="Sinhá Velha">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="56" source="Senhor Bispo" target="Sinhá Velha" weight="2.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="57" source="Senhor Bispo" target="Dom Manuel">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="58" source="Senhor Bispo" target="Vossa Reverendíssima">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="59" source="Dom Manuel" target="Vossa Reverendíssima" weight="3.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+      <edge id="60" source="Susana" target="Cotinha" weight="11.0">
+        <viz:color r="20" g="0" b="56"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
